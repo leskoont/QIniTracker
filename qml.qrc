@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qmldir</file>
+        <file>main.qml</file>
+        <file>CharacterEditDialog.qml</file>
+        <file>NotesDialog.qml</file>
+        <file>ConfirmDialog.qml</file>
+        <file>CharacterListView.qml</file>
+        <file>ModernButton.qml</file>
+        <file>CharacterRow.qml</file>
+        <file>DamageCalculator.qml</file>
+        <file>DiceRoller.qml</file>
+    </qresource>
+</RCC> 

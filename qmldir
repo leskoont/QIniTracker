@@ -1,0 +1,10 @@
+module .
+
+CharacterListView 1.0 CharacterListView.qml
+CharacterRow 1.0 CharacterRow.qml
+CharacterEditDialog 1.0 CharacterEditDialog.qml
+NotesDialog 1.0 NotesDialog.qml
+ConfirmDialog 1.0 ConfirmDialog.qml
+ModernButton 1.0 ModernButton.qml
+DamageCalculator 1.0 DamageCalculator.qml
+DiceRoller 1.0 DiceRoller.qml 
